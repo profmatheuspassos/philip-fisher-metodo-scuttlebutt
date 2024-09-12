@@ -1,4 +1,4 @@
-# Modelo de Análise Quantitativa de Philip Fisher
+# Modelo de Análise de Ativos de Philip Fisher
 
 ## Visão Geral
 Este script em Python é um modelo simples de análise quantitativa baseado nos princípios de investimento de Philip Fisher. O objetivo é avaliar uma ação com base em várias perguntas relacionadas a diferentes aspectos da empresa, fornecendo uma pontuação total que pode ajudar na tomada de decisões de investimento.
