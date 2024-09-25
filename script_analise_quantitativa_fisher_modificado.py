@@ -27,7 +27,7 @@ def coletar_pontuacao():
     ]
 
     # Coletar o ticker da ação
-    ticker = input("Digite o ticker da ação: ")
+    ticker = input("Digite o ticker do ativo: ")
 
     # Criar um dataframe para armazenar as perguntas e as pontuações
     df = pd.DataFrame({"Perguntas": questions, "Pontuação (1-5)": [None] * len(questions)})
